@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "visto": {
+      "type": "http",
+      "url": "https://v2adesk.com/api/mcp"
+    }
+  }
+}

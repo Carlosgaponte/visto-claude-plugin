@@ -1,0 +1,8 @@
+{
+  "name": "visto",
+  "version": "0.3.0",
+  "description": "Reports your Claude Code sessions to Visto's Agent Work board and lets teammates approve or answer from there.",
+  "author": { "name": "V2A Consulting" },
+  "homepage": "https://v2adesk.com",
+  "keywords": ["visto", "agent-work", "kanban", "approvals"]
+}

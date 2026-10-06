@@ -1,0 +1,11 @@
+{
+  "name": "visto",
+  "owner": { "name": "V2A Consulting" },
+  "plugins": [
+    {
+      "name": "visto",
+      "source": "./plugin",
+      "description": "Reports your Claude Code sessions to Visto's Agent Work board and lets teammates approve or answer from there."
+    }
+  ]
+}
